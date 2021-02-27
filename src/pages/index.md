@@ -93,7 +93,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Have a Project/Idea in a mind?
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Let's connect & make dream come true
     actions:
       - label: Get Started
         url: /signup

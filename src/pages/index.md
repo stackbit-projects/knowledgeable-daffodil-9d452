@@ -95,7 +95,7 @@ sections:
     title: Have a Project/Idea in a mind?
     subtitle: Let's connect & make dream come true
     actions:
-      - label: Get Started
+      - label: Get in touch
         url: /signup
         style: primary
   - section_id: recent-posts
